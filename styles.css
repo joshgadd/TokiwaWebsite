@@ -117,3 +117,16 @@ h4 em p {
 #accordion2 .card #headingThree1 {
     background-color: #229E0F;
 }
+.container .text-center strong {
+    color: #FFFFFF;
+}
+.container .text-center strong {
+    color: #000000;
+}
+.container .container #textfield3 {
+    width: 300px;
+    height: 100px;
+    list-style-position: inside;
+    text-align: left;
+    text-indent: 0px;
+}
